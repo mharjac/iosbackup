@@ -16,7 +16,7 @@ parts:
     source-type: git
 
 apps:
-  rosbackup:
+  iosbackup:
     command: bin/iosbackup
     plugs:
       - network
