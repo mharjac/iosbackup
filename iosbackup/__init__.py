@@ -1,7 +1,7 @@
 """Tool for creating Cisco IOS configuration backup
 
 It can be used as an interactive tool from CLI or for unattended backups in 
-containers, in which case, it is using following environment variables:
+containers, in which case it uses following environment variables:
 
 IOS_HOST: for storing Ip address or hostname (e.g., 192.168.1.1)
 IOS_USER: username for making backups
